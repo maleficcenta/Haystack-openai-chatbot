@@ -1,5 +1,7 @@
 # Haystack-openai-chatbot
 
+![yandexart-fbv5hhbq2cunsse9ili9](https://github.com/user-attachments/assets/8d1a174d-8313-4d54-9f0d-4a78e57c0a1f)
+
 ## Hello, this programm allows you to communicate with openai gpt-oss-20b with RAG system, based on information from the database. Also, can be connected to Telegram (bot.py file included)
 
 # What is a bot about?
