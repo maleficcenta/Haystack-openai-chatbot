@@ -27,3 +27,5 @@
 ### Start with 
 > /start
 ### and enter your question!
+
+<img width="874" height="803" alt="Screenshot_8" src="https://github.com/user-attachments/assets/e52278c4-9578-4534-8760-334af540e202" />
